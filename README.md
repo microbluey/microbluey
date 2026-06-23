@@ -1,0 +1,5 @@
+- 👋 Hi, I'm **microbluey**
+- 🤖 Building AI agents, lately focused on emotional-companion experiences
+- 🧩 Previously built BI and knowledge-graph platforms
+- 🌱 Always shipping side projects
+- 📍 Hangzhou, China
